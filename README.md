@@ -2,7 +2,7 @@
 
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)]
 
-- 📚 AI & Data Engineering Student at **Istanbul Technical University**
+- 📚 AI & Data Engineer
 
 - 👨‍💻 All of my projects are available at [Coming Soon!](Coming Soon!)
 
